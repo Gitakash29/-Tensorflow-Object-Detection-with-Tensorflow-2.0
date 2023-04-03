@@ -2,8 +2,7 @@
 
 ![Duckies detection](doc/duckies_test.gif)
 
-In this repository you can find some examples on how to use the Tensorflow OD API with Tensorflow 2. For more information check out my articles:
-* [Tensorflow Object Detection with Tensorflow 2](https://gilberttanner.com/blog/object-detection-with-tensorflow-2)
+
 
 ## Installation
 
