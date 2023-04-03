@@ -88,7 +88,7 @@ OK (skipped=1)
 
 The [object_detection_tutorial.ipynb](https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/object_detection_tutorial.ipynb) notebook walks you through the process of using a pre-trained model to detect objects in an image. To try it out, I recommend to run it inside [Google Colab](https://colab.sandbox.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/colab_tutorials/object_detection_tutorial.ipynb).
 
-![Person and Kites detection](doc/kites_detections_output.jpg)
+![Person and Kites detection](kites_detections_output.jpg)
 
 ## Modify code to run on a video stream
 
@@ -122,7 +122,7 @@ def run_inference(model, cap):
 run_inference(detection_model, cap)
 ```
 
-![Live Object Detection Example](doc/live_object_detection_example.png)
+![Live Object Detection Example](live_object_detection_example.png)
 
 You can find the code as a [notebook](live_object_detection.ipynb) or [python file](detect_from_webcam.py).
 
@@ -130,7 +130,7 @@ You can find the code as a [notebook](live_object_detection.ipynb) or [python fi
 
 The new release also comes with [another notebook](https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb) showing us how to fine-tune a RetinaNet pre-trained model to detect rubber duckies with only 5 images and <5 minutes of training time in Google Colab.
 
-![Duckies detection](doc/duckies_test.gif)
+![Duckies detection](duckies_test.gif)
 
 ## Author
  **Akash wadhwani**
