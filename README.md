@@ -134,4 +134,4 @@ The new release also comes with [another notebook](https://github.com/tensorflow
 ![Duckies detection](doc/duckies_test.gif)
 
 ## Author
- **Gilbert Tanner**
+ **Akash wadhwani**
